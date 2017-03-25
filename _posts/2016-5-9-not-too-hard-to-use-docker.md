@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NUS Docker - It's not too hard to use - Enjoy it (Part 1)
+title: Docker - It's not too hard to use - Enjoy it (Part 1)
 ---
 
 Hi everyone, I see some devs who still feel uncomfortable or hard to use Docker. So today, I will collect some commands and information to help you that feel more familiar with Docker.
@@ -124,10 +124,10 @@ Custom with alias command:
 ## Add below content:
 
 ```
-  nusdocker_command() {
+  customdocker_command() {
     docker-compose run web /bin/bash -l -c "$1"
   }
-  alias nusdocker=nusdocker_command
+  alias customdocker=customdocker_command
 ```
 
 ## Apply your changes
@@ -139,8 +139,8 @@ Custom with alias command:
 ## Now you could test it.
 
 ```
-  kienpt@kienpt-K53E:~/workspace/NUS/NewSprint/nppg-booking-test$ nusdocker 'rake db:migrate'
-  kienpt@kienpt-K53E:~/workspace/NUS/NewSprint/nppg-booking-test$ nusdocker 'rails c'
+  kienpt@kienpt-K53E:~/workspace/app$ customdocker 'rake db:migrate'
+  kienpt@kienpt-K53E:~/workspace/app$ customdocker 'rails c'
   Loading development environment (Rails 4.1.6)
   [1] pry(main)>
 ```
