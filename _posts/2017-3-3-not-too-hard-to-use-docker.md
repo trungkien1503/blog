@@ -9,10 +9,11 @@ Hi everyone, I see some devs who still feel uncomfortable or hard to use Docker.
 
 It's strange if we need to type `sudo` every command. Right? Use docker without `sudo`, maybe you need to log out to apply this
 
+```
   sudo groupadd docker
   sudo gpasswd -a ${USER} docker
   sudo service docker restart
-
+```
 
 # Some useful commands
 
@@ -44,12 +45,13 @@ Stops running containers without removing them. They can be started again with `
 
 The docker ps command only shows running containers by default. To see all containers, use the -a (or --all) flag:
 
+```
   $ docker ps
 
   CONTAINER ID        IMAGE                        COMMAND                CREATED              STATUS              PORTS               NAMES
   4c01db0b339c        ubuntu:12.04                 bash                   17 seconds ago       Up 16 seconds       3300-3310/tcp       webapp
   d7886598dbe2        crosbymichael/redis:latest   /redis-server --dir    33 minutes ago       Up 33 minutes       6379/tcp            redis,webapp/db
-
+```
 
 Please check this link for more detail: https://docs.docker.com/engine/reference/commandline/ps/
 
@@ -57,6 +59,7 @@ Please check this link for more detail: https://docs.docker.com/engine/reference
 
 The default docker images will show all top level images, their repository and tags, and their size.
 
+```
   kienpt@kienpt-K53E:~$ docker images
   REPOSITORY                                  TAG                 IMAGE ID            CREATED             SIZE
   yourdocker.example.com/hackathon_team_1              1.1                 fe3490e45cdf        7 weeks ago         1.037 GB
@@ -76,12 +79,13 @@ The default docker images will show all top level images, their repository and t
   yourdocker.example.com/mailcatcher                   latest              bc1f03ae36b7        12 weeks ago        350.2 MB
   yourdocker.example.com/docker-rvm                    1.0                 a1164134e118        12 weeks ago        692.1 MB
   yourdocker.example.com/postgresql                    9.4                 57882b6193a5        12 weeks ago        231.4 MB
-
+```
 
 For more detail: https://docs.docker.com/engine/reference/commandline/images/
 
 ## docker stop
 
+```
   Usage:  docker stop [OPTIONS] CONTAINER [CONTAINER...]
 
   Stop one or more running containers
@@ -89,19 +93,21 @@ For more detail: https://docs.docker.com/engine/reference/commandline/images/
   Options:
         --help       Print usage
     -t, --time int   Seconds to wait for stop before killing it (default 10)
-
+```
 
 ## One liner to stop / remove all of Docker containers:
 
+```
   docker stop $(docker ps -a -q)
   docker rm $(docker ps -a -q)
-
+```
 
 ## To run a command ( rails console, rake task, rspec ...)
 
+```
   docker-compose run web /bin/bash -l -c "rails c"
   docker-compose run web /bin/bash -l -c "rake db:migrate"
-
+```
 
 It's like a command with Heroku. Right? You feel it's too long. OK, we will improve it now.
 
@@ -111,29 +117,33 @@ Custom with alias command:
 
 ## Change bashrc file
 
+```
   $ sudo vi ~/.bashrc
-
+```
 
 ## Add below content:
 
+```
   nusdocker_command() {
     docker-compose run web /bin/bash -l -c "$1"
   }
   alias nusdocker=nusdocker_command
-
+```
 
 ## Apply your changes
 
+```
   source ~/.bashrc
-
+```
 
 ## Now you could test it.
 
+```
   kienpt@kienpt-K53E:~/workspace/NUS/NewSprint/nppg-booking-test$ nusdocker 'rake db:migrate'
   kienpt@kienpt-K53E:~/workspace/NUS/NewSprint/nppg-booking-test$ nusdocker 'rails c'
   Loading development environment (Rails 4.1.6)
   [1] pry(main)>
-
+```
 
 # Conclusion
 
