@@ -2,7 +2,7 @@
 layout: post
 title: It's strange - Why I can not update data with hstore on Rails
 ---
-Yesterday, my friend asks me about his problem. He said that he updated data, other fields worked correctly but one field was not updated. He could not understand why it happened.
+Yesterday, my friend asked me about his problem. He said that he updated data, other fields worked correctly but one field was not updated. He could not understand why it happened.
 
 Luckily, I know this case, my field's type is hstore. When I change the value for a key, then I call save. It does not work. First, here is my record.
 
