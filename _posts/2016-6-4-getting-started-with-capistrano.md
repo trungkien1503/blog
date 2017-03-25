@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting started with Rails on Docker
+title: Getting started with Capistrano on Rails
 ---
 Today, I have a task "Change deployment script" and it's about deployment with Capistrano and unicorn.
 

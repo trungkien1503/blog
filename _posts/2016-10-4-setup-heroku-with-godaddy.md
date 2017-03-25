@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting started with Rails on Docker
+title: Setup Heroku and GoDaddy
 ---
 Today, it's the first time I buy a domain for my website. After searching, I choose GoDaddy.
 
