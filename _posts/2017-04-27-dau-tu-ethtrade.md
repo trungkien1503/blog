@@ -40,12 +40,12 @@ Bạn có thể xem sự khác nhau về mức lợi nhuận giữa “Chế đ�
 * Đầu tư tối thiểu: <span style="color:blue">10$</span>
 * Đầu tư tối đa:    <span style="color:green">30000$</span>
 * Lợi nhuận rút tối thiểu: <span style="color:red">10$</span>
-* Được rút vốn đầu tư về, tuy nhiên nếu rút trước 60 ngày thì sẽ bị trừ fee, còn sau 60 ngày thì không tốn fee:
+* Được rút vốn đầu tư về, tuy nhiên nếu rút trước 60 ngày thì sẽ bị trừ fee, còn sau 60 ngày thì không tốn fee.
 * Chi phí rút tiền sớm từ danh mục đầu tư:
 
   * Lên đến 30 ngày: <span style="color:red">30%</span>
   * 30-60 ngày:
-    * Rút được đến 30% danh mục đầu tư 0%
+    * Rút được đến 30% danh mục đầu tư <span style="color:blue">0%</span>
     * Số tiền rút được từ 30% đến 50% danh mục đầu tư <span style="color:red">10%</span>
     * Số tiền rút được từ 50% đến 100% danh mục đầu tư <span style="color:red">15%</span>
   * <span style="color:blue">Sau 60 ngày 0%</span>
@@ -53,9 +53,9 @@ Bạn có thể xem sự khác nhau về mức lợi nhuận giữa “Chế đ�
 ***
 
 ### Giải thích thêm về fee (phí) rút vốn:
-* Dễ hiểu hơn thì <30 ngày thì trừ 30% khi rút vốn còn  >60 ngày thì rút vốn ko mất fee
+* Dễ hiểu hơn thì <30 ngày thì trừ 30% khi rút vốn còn  >60 ngày thì rút vốn KHÔNG mất fee
 * Còn trong quãng thời gian 30-60 ngày thì:
-  * Nếu rút 30% tổng vốn thì ko mất fee
+  * Nếu rút 30% tổng vốn thì KHÔNG mất fee
   * Nếu rút 30%-50% tống vốn thì mất <span style="color:red">10%</span> fee
   * Nếu rút 50%-100% tổng vốn thì mất <span style="color:red">15%</span> fee
 ***
@@ -129,10 +129,12 @@ Những kẻ liều lĩnh nói có thể, những nhà "thông thái" bảo khô
 
 Chúc các bạn thành công với những khoản đầu tư của mình.
 
-#### Liên hệ facebook của mình nếu bạn cần tư vấn hướng dẫn thêm: [Facebook KienPT](https://www.facebook.com/trungkien.phan.35)
+#### Liên hệ facebook của mình nếu bạn cần tư vấn hướng dẫn thêm:
+
+[Facebook KienPT](https://www.facebook.com/trungkien.phan.35)
 
 Tốt nhất các bạn tạo tài khoản là F1 của mình sau đó liên hệ mình để có thể đầu tư tốt nhất.
 
 Bài viết thuốc tẩy não Ethtrade được viết bởi [KienPT](phantrungkien.org)
 
-Nguồn: Một số hình ảnh được lấy từ upline nsasao
+Nguồn: Một số hình ảnh, tài liệu được sử dụng từ upline nsasao
