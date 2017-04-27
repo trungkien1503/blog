@@ -7,16 +7,18 @@ title: Đầu tư EthTrade Việt Nam lợi nhuận 15%-25% mỗi tháng trọn 
 ![banner EthTrade](/images/ethtrade/banner2_vi.jpg "banner EthTrade")
 
 ### Các bạn thể xem thông tin Công ty TNHH EthTrade tại đây
-* ![info1](/images/ethtrade/info1.png "info1")
-* ![info2](/images/ethtrade/info2.png "info2")
-* ![info3](/images/ethtrade/info3.png "info3")
-* ![info4](/images/ethtrade/info4.png "info4")
-* ![info5](/images/ethtrade/info5.png "info5")
-* ![info6](/images/ethtrade/info6.png "info6")
-* ![info7](/images/ethtrade/info7.png "info7")
-* ![info8](/images/ethtrade/info8.png "info8")
+
+![info1](/images/ethtrade/info1.png "info1")
+![info2](/images/ethtrade/info2.png "info2")
+![info3](/images/ethtrade/info3.png "info3")
+![info4](/images/ethtrade/info4.png "info4")
+![info5](/images/ethtrade/info5.png "info5")
+![info6](/images/ethtrade/info6.png "info6")
+![info7](/images/ethtrade/info7.png "info7")
+![info8](/images/ethtrade/info8.png "info8")
 
 Địa chỉ công ty:
+
 <span style="color:blue">Unit 3, Room 2207-9 Tower Two, Lippo Centre, 89 Queensway, Admiralty, Hong Kong</span>
 
 EthTrade.org sẽ tạo lợi nhuận dựa vào việc trao đổi các đồng tiền điện tử, tiêu biểu nhất là: Ethereum (ETH). Các traders của EthTrade được giới thiệu là những chuyên gia nhiều năm kinh nghiệm trong lãnh vực này, thông thường họ sẽ tạo ra lợi nhuận từ 30-50%/tháng, và họ chia lại cho nhà đầu tư 1/2, tức lãi hàng tháng sẽ là 15%-25%
@@ -24,25 +26,29 @@ EthTrade.org sẽ tạo lợi nhuận dựa vào việc trao đổi các đồng
 Tuy nhiên nếu bạn bật chế độ "tái đầu tư 100%" thì bạn có thể sinh lời 25 lần. VD: đầu tư $1000, sau 360 ngày tái đầu tư 100%, số tiền của bạn có thể sẽ là $26080 (dựa vào bảng tính trung bình do EthTrade cung cấp)
 
 Bạn có thể xem sự khác nhau về mức lợi nhuận giữa “Chế độ bình thường” và “Tái Đầu Tư 100%” như sau:
-* ![không tái đầu tư](/images/ethtrade/khong-tai-dau-tu.png "không tái đầu tư")
-* ![tái đầu tư](/images/ethtrade/tai-dau-tu.png "tái đầu tư")
+* Nếu không tái đầu tư:
+
+![không tái đầu tư](/images/ethtrade/khong-tai-dau-tu.png "không tái đầu tư")
+* Nếu tái đầu tư:
+
+![tái đầu tư](/images/ethtrade/tai-dau-tu.png "tái đầu tư")
 
 ### Một số thông tin về [EthTrade](https://ethtrade.org/lp1/002351?vi) tại thời điểm này:
 * Link đăng ký: [Đăng ký ở đây](https://ethtrade.org/agent002351) (Mới đăng ký thôi thì chưa mất tiền gì đâu nhé)
 * Bạn không được quyền cheat tài khoản có nghĩa là tự mình đăng ký thêm tài khoản là tuyến dưới của chính mình, sẽ bị khóa rất oan uổng.
 * Cổng thanh toán: [Bitcoin (BTC)](https://www.coinbase.com/join/540983fa5fd4759756000007), [Ethereum (ETH)](https://www.coinbase.com/join/540983fa5fd4759756000007), [AdvCash](http://wallet.advcash.com/referral/019cc24c-b7e2-495f-8e6f-777d395e279a)
-* Đầu tư tối thiểu: 10$
-* Đầu tư tối đa:    30000$
-* Lợi nhuận rút tối thiểu: 10$
+* Đầu tư tối thiểu: <span style="color:blue">10$</span>
+* Đầu tư tối đa:    <span style="color:green">30000$</span>
+* Lợi nhuận rút tối thiểu: <span style="color:red">10$</span>
 * Được rút vốn đầu tư về, tuy nhiên nếu rút trước 60 ngày thì sẽ bị trừ fee, còn sau 60 ngày thì không tốn fee:
 * Chi phí rút tiền sớm từ danh mục đầu tư:
 
-  * Lên đến 30 ngày: 30%
+  * Lên đến 30 ngày: <span style="color:red">30%</span>
   * 30-60 ngày:
     * Rút được đến 30% danh mục đầu tư 0%
-    * Số tiền rút được từ 30% đến 50% danh mục đầu tư 10%
-    * Số tiền rút được từ 50% đến 100% danh mục đầu tư 15%
-  * Sau 60 ngày 0%
+    * Số tiền rút được từ 30% đến 50% danh mục đầu tư <span style="color:red">10%</span>
+    * Số tiền rút được từ 50% đến 100% danh mục đầu tư <span style="color:red">15%</span>
+  * <span style="color:blue">Sau 60 ngày 0%</span>
 
 ***
 
@@ -50,11 +56,11 @@ Bạn có thể xem sự khác nhau về mức lợi nhuận giữa “Chế đ�
 * Dễ hiểu hơn thì <30 ngày thì trừ 30% khi rút vốn còn  >60 ngày thì rút vốn ko mất fee
 * Còn trong quãng thời gian 30-60 ngày thì:
   * Nếu rút 30% tổng vốn thì ko mất fee
-  * Nếu rút 30%-50% tống vốn thì mất 10% fee
-  * Nếu rút 50%-100% tổng vốn thì mất 15% fee
+  * Nếu rút 30%-50% tống vốn thì mất <span style="color:red">10%</span> fee
+  * Nếu rút 50%-100% tổng vốn thì mất <span style="color:red">15%</span> fee
 ***
 
-* Lợi nhuận: 15%-25%/tháng mãi mãi, chỉ khi nào rút vốn thì mới ngừng nhận lãi. Mỗi ngày % lợi nhuận sẽ cập nhật 1 lần (sau 24h kể từ khi các bạn nạp tiền vào site)
+* Lợi nhuận: <span style="color:blue">15%-25%/tháng mãi mãi</span>, chỉ khi nào rút vốn thì mới ngừng nhận lãi. Mỗi ngày % lợi nhuận sẽ cập nhật 1 lần (sau 24h kể từ khi các bạn nạp tiền vào site)
 * Số tiền rút tối thiểu: $10
 * Fee rút tiền: 0%
 * Thời gian thanh toán: 5 ngày >> hiện tại thì thường [EthTrade](https://ethtrade.org/lp1/002351?vi) sẽ thanh toán sau 3 ngày kể từ ngày đặt lệnh
@@ -86,10 +92,12 @@ Link đăng ký: [Đăng ký ở đây](https://ethtrade.org/agent002351)
 Hướng dẫn đầu tư vào [EthTrade](https://ethtrade.org/lp1/002351?vi):
 
 * Bước 1: Chọn Tab “Đầu Tư”, chọn STANDARD >> chọn hệ thống thanh toán là BTC hoặc ETH hoặc USD, nhập số tiền muốn đầu tư, rồi chọn “Tạo Một Danh Mục”
-* ![bước 1](/images/ethtrade/step1.png "bước 1")
+
+![bước 1](/images/ethtrade/step1.png "bước 1")
 
 * Bước 2: Gửi chính xác số tiền đã ghi ở Bước 1 vào địa chỉ được cung cấp bởi [EthTrade](https://ethtrade.org/lp1/002351?vi)
-* ![bước 2](/images/ethtrade/step2.png "bước 2")
+
+![bước 2](/images/ethtrade/step2.png "bước 2")
 
 Cách đầu tư vào [EthTrade](https://ethtrade.org/lp1/002351?vi) ít rủi ro và đạt lợi nhuận cao?
 
