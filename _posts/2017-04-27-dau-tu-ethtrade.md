@@ -8,7 +8,7 @@ title: Đầu tư EthTrade Việt Nam lợi nhuận 15%-25% mỗi tháng trọn 
 
 
 ### Một số thông tin về [EthTrade](https://ethtrade.org/lp1/002351?vi) tại thời điểm này:
-* Link đăng ký: https://ethtrade.org/agent002351 (Mới đăng ký thôi thì chưa mất tiền gì đâu nhé)
+* Link đăng ký: [Đăng ký ở đây](https://ethtrade.org/agent002351) (Mới đăng ký thôi thì chưa mất tiền gì đâu nhé)
 * Bạn không được quyền cheat tài khoản có nghĩa là tự mình đăng ký thêm tài khoản là tuyến dưới của chính mình, sẽ bị khóa rất oan uổng.
 * Cổng thanh toán: [Bitcoin (BTC)](https://www.coinbase.com/join/540983fa5fd4759756000007), [Ethereum (ETH)](https://www.coinbase.com/join/540983fa5fd4759756000007), [AdvCash](http://wallet.advcash.com/referral/019cc24c-b7e2-495f-8e6f-777d395e279a)
 * Đầu tư tối thiểu: 10$
@@ -60,7 +60,7 @@ Một số tài liệu về [Ethtrade](https://ethtrade.org/lp1/002351?vi) cho c
 * [Slide trình bày về Ethtrade](https://ethtrade.org/presentation-VN.pdf)
 * [Thỏa thuận đối tác](https://ethtrade.org/partnership_agreement)
 
-Link đăng ký: https://ethtrade.org/agent002351
+Link đăng ký: [Đăng ký ở đây](https://ethtrade.org/agent002351)
 
 Hướng dẫn đầu tư vào [EthTrade](https://ethtrade.org/lp1/002351?vi):
 
@@ -86,7 +86,7 @@ Bằng chứng đầu tư vào Ethtrade:
 Bằng chứng nhận tiền mới nhất 27/04:
 * ![Bằng chứng nhận tiền từ EthTrade](/images/ethtrade/proof-2704.png "Bằng chứng nhận tiền từ EthTrade")
 
-Link đăng ký: https://ethtrade.org/agent002351
+Link đăng ký: [Đăng ký ở đây](https://ethtrade.org/agent002351)
 
 Nhớ kiểm tra link đăng ký, clear cache hoặc trình duyệt ẩn danh khi đăng ký vì làm F1 sau này sẽ có rất nhiều quyền lợi và hỗ trợ nhiều những kiến thức mình phải trả giá đắt mới có được.
 
