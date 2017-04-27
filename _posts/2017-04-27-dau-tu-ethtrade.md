@@ -2,10 +2,30 @@
 layout: post
 title: Đầu tư EthTrade Việt Nam lợi nhuận 15%-25% mỗi tháng trọn đời
 ---
-Đầu tư EthTrade Việt Nam lợi nhuận 15%-25% mỗi tháng trọn đời – Dự án giao dịch Ethereum/Bitcoin
+Đầu tư EthTrade Việt Nam <span style="color:blue">lợi nhuận 15%-25% mỗi tháng trọn đời</span> – Dự án giao dịch Ethereum/Bitcoin
 
 ![banner EthTrade](/images/ethtrade/banner2_vi.jpg "banner EthTrade")
 
+### Các bạn thể xem thông tin Công ty TNHH EthTrade tại đây
+* ![info1](/images/ethtrade/info1.png "info1")
+* ![info2](/images/ethtrade/info2.png "info2")
+* ![info3](/images/ethtrade/info3.png "info3")
+* ![info4](/images/ethtrade/info4.png "info4")
+* ![info5](/images/ethtrade/info5.png "info5")
+* ![info6](/images/ethtrade/info6.png "info6")
+* ![info7](/images/ethtrade/info7.png "info7")
+* ![info8](/images/ethtrade/info8.png "info8")
+
+Địa chỉ công ty:
+<span style="color:blue">Unit 3, Room 2207-9 Tower Two, Lippo Centre, 89 Queensway, Admiralty, Hong Kong</span>
+
+EthTrade.org sẽ tạo lợi nhuận dựa vào việc trao đổi các đồng tiền điện tử, tiêu biểu nhất là: Ethereum (ETH). Các traders của EthTrade được giới thiệu là những chuyên gia nhiều năm kinh nghiệm trong lãnh vực này, thông thường họ sẽ tạo ra lợi nhuận từ 30-50%/tháng, và họ chia lại cho nhà đầu tư 1/2, tức lãi hàng tháng sẽ là 15%-25%
+
+Tuy nhiên nếu bạn bật chế độ "tái đầu tư 100%" thì bạn có thể sinh lời 25 lần. VD: đầu tư $1000, sau 360 ngày tái đầu tư 100%, số tiền của bạn có thể sẽ là $26080 (dựa vào bảng tính trung bình do EthTrade cung cấp)
+
+Bạn có thể xem sự khác nhau về mức lợi nhuận giữa “Chế độ bình thường” và “Tái Đầu Tư 100%” như sau:
+* ![không tái đầu tư](/images/ethtrade/khong-tai-dau-tu.png "không tái đầu tư")
+* ![tái đầu tư](/images/ethtrade/tai-dau-tu.png "tái đầu tư")
 
 ### Một số thông tin về [EthTrade](https://ethtrade.org/lp1/002351?vi) tại thời điểm này:
 * Link đăng ký: [Đăng ký ở đây](https://ethtrade.org/agent002351) (Mới đăng ký thôi thì chưa mất tiền gì đâu nhé)
@@ -51,6 +71,7 @@ Có 5 cấp bậc trong [EthTrade](https://ethtrade.org/lp1/002351?vi), phụ th
 * CO-FOUNDER: Giới hạn hàng tuần cho khoản đầu tư $7000, Hạn mức rút tiền là $3000.
 
 Riêng mình muốn nạp vào $3000 thì cũng cần thời gian 3 tuần mới có thể nạp vào. [EthTrade](https://ethtrade.org/lp1/002351?vi) có vẻ như chê tiền ấy nhỉ 🙂
+
 Bản thân [EthTrade](https://ethtrade.org/lp1/002351?vi) cũng là 1 dự án "hữu xạ tự nhiên hương", họ vẫn đang phát triển mà không cần phải thuê các HYIP monitor PR cho họ.
 
 Nói đùa chứ đây là 1 trong những cách quản lý vốn tốt của [EthTrade](https://ethtrade.org/lp1/002351?vi), cũng như chứng minh phương châm làm việc không phải chủ đích lừa đảo của [EthTrade](https://ethtrade.org/lp1/002351?vi).
@@ -65,7 +86,10 @@ Link đăng ký: [Đăng ký ở đây](https://ethtrade.org/agent002351)
 Hướng dẫn đầu tư vào [EthTrade](https://ethtrade.org/lp1/002351?vi):
 
 * Bước 1: Chọn Tab “Đầu Tư”, chọn STANDARD >> chọn hệ thống thanh toán là BTC hoặc ETH hoặc USD, nhập số tiền muốn đầu tư, rồi chọn “Tạo Một Danh Mục”
+* ![bước 1](/images/ethtrade/step1.png "bước 1")
+
 * Bước 2: Gửi chính xác số tiền đã ghi ở Bước 1 vào địa chỉ được cung cấp bởi [EthTrade](https://ethtrade.org/lp1/002351?vi)
+* ![bước 2](/images/ethtrade/step2.png "bước 2")
 
 Cách đầu tư vào [EthTrade](https://ethtrade.org/lp1/002351?vi) ít rủi ro và đạt lợi nhuận cao?
 
