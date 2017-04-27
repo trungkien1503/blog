@@ -2,8 +2,7 @@
 layout: post
 title: Đầu tư EthTrade Việt Nam lợi nhuận 15%-25% mỗi tháng trọn đời
 ---
-
-# Đầu tư EthTrade Việt Nam lợi nhuận 15%-25% mỗi tháng trọn đời – Dự án giao dịch Ethereum/Bitcoin
+Đầu tư EthTrade Việt Nam lợi nhuận 15%-25% mỗi tháng trọn đời – Dự án giao dịch Ethereum/Bitcoin
 
 ![banner EthTrade](/images/ethtrade/banner2_vi.jpg "banner EthTrade")
 
