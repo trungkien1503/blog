@@ -105,11 +105,11 @@ Cách đầu tư vào [EthTrade](https://ethtrade.org/lp1/002351?vi) ít rủi r
 
 Bằng chứng đầu tư vào Ethtrade:
 
-* ![Bằng chứng đầu tư vào EthTrade](/images/ethtrade/proof1.png "Bằng chứng đầu tư vào Ethtrade")
-* ![Bằng chứng đầu tư vào EthTrade](/images/ethtrade/proof2.png "Bằng chứng đầu tư vào Ethtrade")
-* ![Bằng chứng đầu tư vào EthTrade](/images/ethtrade/proof3.png "Bằng chứng đầu tư vào Ethtrade")
-* ![Bằng chứng đầu tư vào EthTrade](/images/ethtrade/proof4.png "Bằng chứng đầu tư vào Ethtrade")
-* ![Bằng chứng đầu tư vào EthTrade](/images/ethtrade/proof5.png "Bằng chứng đầu tư vào Ethtrade")
+![Bằng chứng đầu tư vào EthTrade](/images/ethtrade/proof1.png "Bằng chứng đầu tư vào Ethtrade")
+![Bằng chứng đầu tư vào EthTrade](/images/ethtrade/proof2.png "Bằng chứng đầu tư vào Ethtrade")
+![Bằng chứng đầu tư vào EthTrade](/images/ethtrade/proof3.png "Bằng chứng đầu tư vào Ethtrade")
+![Bằng chứng đầu tư vào EthTrade](/images/ethtrade/proof4.png "Bằng chứng đầu tư vào Ethtrade")
+![Bằng chứng đầu tư vào EthTrade](/images/ethtrade/proof5.png "Bằng chứng đầu tư vào Ethtrade")
 
 Đây là tài khoản của mình:
 
@@ -134,3 +134,5 @@ Chúc các bạn thành công với những khoản đầu tư của mình.
 Tốt nhất các bạn tạo tài khoản là F1 của mình sau đó liên hệ mình để có thể đầu tư tốt nhất.
 
 Bài viết thuốc tẩy não Ethtrade được viết bởi [KienPT](phantrungkien.org)
+
+Nguồn: Một số hình ảnh được lấy từ upline nsasao
