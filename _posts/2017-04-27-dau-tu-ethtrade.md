@@ -129,7 +129,7 @@ Những kẻ liều lĩnh nói có thể, những nhà "thông thái" bảo khô
 
 Chúc các bạn thành công với những khoản đầu tư của mình.
 
-#### Liên hệ facebook của mình nếu bạn cần tư vấn hướng dẫn thêm: https://www.facebook.com/trungkien.phan.35
+#### Liên hệ facebook của mình nếu bạn cần tư vấn hướng dẫn thêm: [Facebook KienPT](https://www.facebook.com/trungkien.phan.35)
 
 Tốt nhất các bạn tạo tài khoản là F1 của mình sau đó liên hệ mình để có thể đầu tư tốt nhất.
 
