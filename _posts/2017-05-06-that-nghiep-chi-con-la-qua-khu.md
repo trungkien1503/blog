@@ -31,7 +31,7 @@ Tôi: Vậy công việc em muốn làm là gì?
 X: Em cũng không biết, việc gì cũng được, tầm XXX triệu là OK anh ạ.
 
 Như thế này thì không ai có thể giúp được bạn cả.
-Có thể bạn nên chủ động theo dõi trên một số trang như https://www.vietnamworks.com/ tìm kiếm theo một số kỹ năng mà mình có xem các công ty người ta đang tuyển dụng những vị trí như thế nào.
+Có thể bạn nên chủ động theo dõi trên một số trang như [Viet Nam Works](https://www.vietnamworks.com/) tìm kiếm theo một số kỹ năng mà mình có xem các công ty người ta đang tuyển dụng những vị trí như thế nào.
 
 Nhớ xem kỹ những thông tin kỹ năng cần có của công việc đó, cái nào chưa có thì tự học, trau dồi ít nhất phần nào trước khi nộp CV.
 
