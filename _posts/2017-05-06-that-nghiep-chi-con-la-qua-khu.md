@@ -7,7 +7,9 @@ Có phải bạn đang cảm thấy tìm được một công việc thật khó
 Bài viết này sẽ là một góc nhìn chủ quan từ tôi qua một thời gian tuyển dụng, đào tạo các bạn sinh viên mới ra trường.
 Và đúc rút từ kinh nghiệm bản thân sau 5 năm đi làm.
 
-Xung quanh tôi vẫn còn nhiều cô cậu sinh viên bước ra trường với một cái CV trống rỗng, một nỗi sợ không thể tìm được việc. Giữa một xã hội tràn ngập thông tin, tỉ lệ thất nghiệp cao khi hàng năm có hàng ngàn, hàng vạn các cử nhân, kỹ sư ra "đời".
+Xung quanh tôi vẫn còn nhiều cô cậu sinh viên bước ra trường với một cái CV trống rỗng, một nỗi sợ không thể tìm được việc.
+
+Giữa một xã hội tràn ngập thông tin, tỉ lệ thất nghiệp cao khi hàng năm có hàng ngàn, hàng vạn các cử nhân, kỹ sư ra "đời".
 
 Ấy vậy mà các nhà tuyển dụng vẫn gào là không thể tìm được ứng viên, việc chất đầy đống?
 
@@ -45,15 +47,18 @@ Bạn viết CV bằng tiếng Anh mà sai tòe loe, nhìn vào cứ như một 
 * **Giây phút CV gặp nhà tuyển dụng** cũng giống như bạn chuẩn bị ra sao khi về ra mắt bố mẹ chồng, hay ở buổi hẹn hò đầu tiên với một cô gái.
 Đến cái CV mà bạn cũng không trau chuốt được (bạn có thể dùng cái CV đó gửi cho nhiều hơn một công ty) thì bạn sẽ là người cẩn thận, hứa hẹn được việc lắm nhỉ?
 Không đâu, bản thân tôi khi xem qua các CV mà thấy lỗi chính tả đã không vui rồi.
+
 * **CV đừng quá rông dài**: Người ta chỉ dành 30s để lướt qua cái CV của bạn rồi sau đó mới quyết định xem tiếp nếu nó hấp dẫn.
 Đừng kể cả tiểu sử cuộc đời bi tráng của bạn vào đó.
 Bạn không cần kể lể rằng bạn có kinh nghiệm "xin việc 5 năm liền" vào đấy, hay thành tích ấn tượng cứ 2-6 tháng lại chuyển một công ty.
 * **Hãy kể cho họ bạn là ai trong cái CV đó**: ngắn gọn xúc tích, bạn có những điểm mạnh gì, hứa hẹn ra sao.
 Hãy kể cho họ bạn làm những gì trong những kinh nghiệm, công việc trước đây đừng liệt kê những phần bạn không làm, đao to búa lớn sẽ không gây ấn tượng lắm đâu.
+
 * **Nội dung CV phải tương xứng với những yêu cầu công việc mà nhà tuyển dụng mong đợi**:
 Khi bạn đọc một nội dung tuyển dụng, hãy đọc thật kỹ nó, phải hiểu nhà tuyển dụng muốn gì ở ứng viên.
 Viết CV ngắn gọn, bám sát, làm nổi bật những yêu cầu đưa ra từ nhà tuyển dụng.
 Ngoài ra có thể thêm những điểm nhấn khiến bạn nổi bật đáng được phỏng vấn trực tiếp.
+
 * **Kiếm một cái ẢNH thật chất cho cái CV**:
 Bạn nên chụp một cái ảnh thật tự nhiên, thoải mái với nụ cười tuyệt vời của bạn, có thể để ý cả trang phục nữa, chẳng cần quần áo gì sang trọng cứ sơ mi trắng mà chụp rồi cười thật tươi, đầu tóc gọn gàng.
 Sẽ ấn tượng hơn nhiều so với một bức ảnh bạn lấy bừa hay là một kiểu không nghiêm túc hay "trẻ trâu"
@@ -216,4 +221,5 @@ Hãy email cho tôi nhé: [trungkien.phan1991@gmail.com](trungkien.phan1991@gmai
 Cho tôi biết bạn là ai, bạn đang làm gì, câu chuyện của bạn là gì, bài viết này có giúp gì bạn không?
 
 Tôi viết bài này hết mấy ngày, chắc bạn sẽ không tiếc một vài phút để nói chuyện với tôi nhỉ?
+
 Hãy gửi tôi những vấn đề mà bạn gặp phải, chúng ta sẽ cùng bạn giải quyết chúng :)
