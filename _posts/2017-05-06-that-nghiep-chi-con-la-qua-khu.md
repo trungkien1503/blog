@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 phút và bạn không còn nỗi lo thất nghiệp (Phần 1)
+title: Chỉ 10 phút không còn nỗi lo thất nghiệp(Phần 1)
 ---
 Có phải bạn đang cảm thấy tìm được một công việc thật khó khăn?
 
