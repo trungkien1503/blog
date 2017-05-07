@@ -4,13 +4,13 @@ title: Không còn nỗi lo thất nghiệp (Phần 2)
 ---
 Bài viết này Kiên sẽ phân tích câu chuyện của một bạn độc giả và có một số lời tự thú từ nhà tuyển dụng nhé!
 
-Thực sự công việc viết lách không phải là nghề của Kiên nên những bài viết của Kiên chỉ mang tính cảm quan và nó chẳng theo một cái chuẩn gì cả. Công việc ngày 8 tiếng làm rồi nhận lương có phần cảm thấy nhàm chán nên muốn xây dựng một cái blog để có thể là nơi kết nối với nhiều con người khác, nhiều bạn trẻ.
-Để có thể sống không chỉ biết mỗi bản thân mình.
+*Thực sự công việc viết lách không phải là nghề của Kiên nên những bài viết của Kiên chỉ mang tính cảm quan và nó chẳng theo một cái chuẩn gì cả. Công việc ngày 8 tiếng làm rồi nhận lương có phần cảm thấy nhàm chán nên muốn xây dựng một cái blog để có thể là nơi kết nối với nhiều con người khác, nhiều bạn trẻ.
+Để có thể sống không chỉ biết mỗi bản thân mình.*
 
 Lần đầu tiên nhận được phản hồi từ một bạn không quen biết với Kiên sau khi Kiên ra bài viết về sự chuẩn bị làm sao để không thất nghiệp:
 [Chỉ 10 phút không còn nỗi lo thất nghiệp](http://phantrungkien.org/that-nghiep-chi-con-la-qua-khu/)
 
-Nên Kiên cũng khá vui khi những chia sẻ của mình có mang lại chút gì đó giá trị cho người khác, nó cũng là động lực cho những người như Kiên chia sẻ và kết nối nhiều hơn.
+*Nên Kiên cũng khá vui khi những chia sẻ của mình có mang lại chút gì đó giá trị cho người khác, nó cũng là động lực cho những người như Kiên chia sẻ và kết nối nhiều hơn.*
 
 Xin được trích dẫn chia sẻ của bạn ấy như sau:
 > Hì,ko biêt e có đang làm phiền a ko.
