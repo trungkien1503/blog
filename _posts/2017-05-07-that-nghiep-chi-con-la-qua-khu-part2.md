@@ -2,8 +2,8 @@
 layout: post
 title: Không còn nỗi lo thất nghiệp (Phần 2)
 ---
+Bài viết này Kiên sẽ phân tích câu chuyện của một bạn độc giả và có một số lời tự thú từ nhà tuyển dụng nhé!
 
-# Nhà tuyển dụng tự thú
 Thực sự công việc viết lách không phải là nghề của Kiên nên những bài viết của Kiên chỉ mang tính cảm quan và nó chẳng theo một cái chuẩn gì cả. Công việc ngày 8 tiếng làm rồi nhận lương có phần cảm thấy nhàm chán nên muốn xây dựng một cái blog để có thể là nơi kết nối với nhiều con người khác, nhiều bạn trẻ.
 Để có thể sống không chỉ biết mỗi bản thân mình.
 
