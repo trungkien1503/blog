@@ -13,7 +13,7 @@ Nhưng đó không phải mục đích của mình, mình chỉ muốn mang đ�
 Và đang cũng muốn kết hợp sự chia sẻ + học tiếng Anh bằng hình thức viết những bài như thế này.
 
 ## Đây là bài nói của tác giả, Kiên sẽ đính kèm để các bạn nghe trước:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/21j_OCNLuYg" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/21j_OCNLuYg" frameborder="0" allowfullscreen></iframe>
 
 ---
 
