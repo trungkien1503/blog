@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Convey: Life is so easy - why we make it hard
+title: Life is so easy - why we make it hard
 ---
 Đây là một trong những hình thức học tiếng Anh mà Kiên đang theo đuổi. Ví dụ như nghe một bài nói sau đó 'convey' lại - tóm tắt nội dung chính.
 
