@@ -73,19 +73,19 @@ Bạn có thể theo 2 hướng dẫn sau và làm theo khá dễ:
 [Thể lệ chương trình nếu bạn muốn xem thêm](https://momo.vn/chiasemomo/the-le.html)
 
 ## Đây là hình ảnh mà Kiên làm chuột bạch nhé
-![momo1](/images/momo/momo1.png "momo1")
-![momo2](/images/momo/momo2.png "momo2")
-![momo3](/images/momo/momo3.png "momo3")
-![momo4](/images/momo/momo4.png "momo4")
-![momo5](/images/momo/momo5.png "momo5")
-![momo6](/images/momo/momo6.png "momo6")
-![momo7](/images/momo/momo7.png "momo7")
-![momo8](/images/momo/momo8.png "momo8")
-![momo9](/images/momo/momo9.png "momo9")
-![momo10](/images/momo/momo10.png "momo10")
-![momo11](/images/momo/momo11.png "momo11")
-![momo12](/images/momo/momo12.png "momo12")
-![momo13](/images/momo/momo13.png "momo13")
+![momo1](/images/momo/momo1.PNG "momo1")
+![momo2](/images/momo/momo2.PNG "momo2")
+![momo3](/images/momo/momo3.PNG "momo3")
+![momo4](/images/momo/momo4.PNG "momo4")
+![momo5](/images/momo/momo5.PNG "momo5")
+![momo6](/images/momo/momo6.PNG "momo6")
+![momo7](/images/momo/momo7.PNG "momo7")
+![momo8](/images/momo/momo8.PNG "momo8")
+![momo9](/images/momo/momo9.PNG "momo9")
+![momo10](/images/momo/momo10.PNG "momo10")
+![momo11](/images/momo/momo11.PNG "momo11")
+![momo12](/images/momo/momo12.PNG "momo12")
+![momo13](/images/momo/momo13.PNG "momo13")
 
 ---
 
