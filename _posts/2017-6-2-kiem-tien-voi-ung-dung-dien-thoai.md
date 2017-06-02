@@ -73,19 +73,19 @@ Bạn có thể theo 2 hướng dẫn sau và làm theo khá dễ:
 [Thể lệ chương trình nếu bạn muốn xem thêm](https://momo.vn/chiasemomo/the-le.html)
 
 ## Đây là hình ảnh mà Kiên làm chuột bạch nhé
-![momo1](/images/momo/momo1.PNG "momo1"){ width=30% }
-![momo2](/images/momo/momo2.PNG "momo2"){ width=30% }
-![momo3](/images/momo/momo3.PNG "momo3"){ width=30% }
-![momo4](/images/momo/momo4.PNG "momo4"){ width=30% }
-![momo5](/images/momo/momo5.PNG "momo5"){ width=30% }
-![momo6](/images/momo/momo6.PNG "momo6"){ width=30% }
-![momo7](/images/momo/momo7.PNG "momo7"){ width=30% }
-![momo8](/images/momo/momo8.PNG "momo8"){ width=30% }
-![momo9](/images/momo/momo9.PNG "momo9"){ width=30% }
-![momo10](/images/momo/momo10.PNG "momo10"){ width=30% }
-![momo11](/images/momo/momo11.PNG "momo11"){ width=30% }
-![momo12](/images/momo/momo12.PNG "momo12"){ width=30% }
-![momo13](/images/momo/momo13.PNG "momo13"){ width=30% }
+<img src="/images/momo/momo1.PNG" alt="momo1" style="width: 30%;"/>
+<img src="/images/momo/momo2.PNG" alt="momo1" style="width: 30%;"/>
+<img src="/images/momo/momo3.PNG" alt="momo1" style="width: 30%;"/>
+<img src="/images/momo/momo4.PNG" alt="momo1" style="width: 30%;"/>
+<img src="/images/momo/momo5.PNG" alt="momo1" style="width: 30%;"/>
+<img src="/images/momo/momo6.PNG" alt="momo1" style="width: 30%;"/>
+<img src="/images/momo/momo7.PNG" alt="momo1" style="width: 30%;"/>
+<img src="/images/momo/momo8.PNG" alt="momo1" style="width: 30%;"/>
+<img src="/images/momo/momo9.PNG" alt="momo1" style="width: 30%;"/>
+<img src="/images/momo/momo10.PNG" alt="momo1" style="width: 30%;"/>
+<img src="/images/momo/momo11.PNG" alt="momo1" style="width: 30%;"/>
+<img src="/images/momo/momo12.PNG" alt="momo1" style="width: 30%;"/>
+<img src="/images/momo/momo13.PNG" alt="momo1" style="width: 30%;"/>
 
 ---
 
