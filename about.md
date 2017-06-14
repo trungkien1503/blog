@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Câu chuyện về quản lý tài chính tại phantrungkien chấm org
+title: Giới thiệu và câu chuyện về Kiên...
 permalink: /about/
 ---
 
